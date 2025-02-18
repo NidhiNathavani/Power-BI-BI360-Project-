@@ -37,5 +37,5 @@ Provides actionable insights into business growth, profitability, and efficiency
 - Gained expertise in Power BI Services, including report publishing, setting up personal gateways, and creating Power BI apps.
 - Enhanced collaboration and workspace management skills by learning about user roles and access permissions within Power BI Services.
 ### Sample Dashboard:
-![Dashboard Screenshot](Dashboard\Screenshots\)
+![Dashboard Screenshot](Dashboard/Screenshots/)
 
