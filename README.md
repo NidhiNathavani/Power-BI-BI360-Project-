@@ -5,7 +5,7 @@ Power BI: Data visualization tool for creating interactive dashboards.
 DAX (Data Analysis Expressions): Used for creating calculated columns, measures, and custom visuals.
 Power Query: For data extraction, transformation, and loading (ETL process).
 ## Pages/Views in the Dashboard
--**1. Sales View**
+_**1. Sales View**
 Analyzes sales performance across regions, products, and time periods.
 Displays metrics like total sales, average sales, sales growth, and sales targets.
 Includes interactive filters for regions, product categories, and sales teams.
