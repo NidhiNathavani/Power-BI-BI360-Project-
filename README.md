@@ -6,21 +6,19 @@ DAX (Data Analysis Expressions): Used for creating calculated columns, measures,
 Power Query: For data extraction, transformation, and loading (ETL process).
 ## Pages/Views in the Dashboard
 - **1. Sales View**
-Analyzes sales performance across regions, products, and time periods.
-Displays metrics like total sales, average sales, sales growth, and sales targets.
-Includes interactive filters for regions, product categories, and sales teams.
+Analyzes sales performance across regions, countries, and customer segments.
+Displays metrics like Net sales, Gross Margin % and analyse with Last year data and target data.
+Includes interactive filters for regions, product categories, customers.
 - **2. Marketing View**
-Focuses on marketing campaigns and customer engagement.
-Tracks metrics such as customer acquisition cost, conversion rates, and campaign ROI.
-Includes data from social media performance, digital advertising, and email marketing.
+Focuses on marketing and analysing Net Profit % vs Net Sales.
+Includes Unit economics, and performance by Region/Market/Customers.
 - **3. Finance View**
 Provides a financial overview of the company's income, expenses, profits, and financial health.
 Displays KPIs like gross margin, net profit, and cost structure.
 Offers financial forecasting and trend analysis.
 - **4. Supply Chain View**
 Analyzes supply chain operations, from procurement to delivery.
-Visualizes inventory levels, supplier performance, and lead times.
-Includes metrics like order fulfillment rate, supplier reliability, and on-time deliveries.
+Visualizes Absolute Error, Forcast Accuracy,Net Error.
 - **5. Executive View**
 A high-level view designed for executives to track the overall business performance.
 Combines key metrics from sales, marketing, finance, and supply chain into a consolidated report.
@@ -37,5 +35,5 @@ Provides actionable insights into business growth, profitability, and efficiency
 - Gained expertise in Power BI Services, including report publishing, setting up personal gateways, and creating Power BI apps.
 - Enhanced collaboration and workspace management skills by learning about user roles and access permissions within Power BI Services.
 ### Sample Dashboard:
-![Dashboard Screenshot](Dashboard/Screenshots/)
+![BI360 Dashboard Screenshots](Dashboard/Screenshots/)
 
