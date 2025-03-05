@@ -1,5 +1,9 @@
 # Power-BI-BI360-Project-
 A comprehensive business intelligence dashboard built using Power BI Advanced, providing multi-departmental insights through interactive visualizations. The dashboard integrates data from sales, marketing, finance, and supply chain departments to enable data-driven decision making.
+
+![BI360 Dashboard Screenshots](Dashboard/Screenshots/)
+![BI360 Dashboard Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTQ3M2ZkZjQtNzg1OC00OWZiLWJlZmUtNTI0OTUxYTg2MTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Technologies Used
 Power BI: Data visualization tool for creating interactive dashboards.
 DAX (Data Analysis Expressions): Used for creating calculated columns, measures, and custom visuals.
@@ -34,6 +38,5 @@ Provides actionable insights into business growth, profitability, and efficiency
 - Explored data validation practices to ensure accurate reporting.
 - Gained expertise in Power BI Services, including report publishing, setting up personal gateways, and creating Power BI apps.
 - Enhanced collaboration and workspace management skills by learning about user roles and access permissions within Power BI Services.
-### Sample Dashboard:
-![BI360 Dashboard Screenshots](Dashboard/Screenshots/)
+
 
