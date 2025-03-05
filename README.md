@@ -3,8 +3,6 @@ A comprehensive business intelligence dashboard built using Power BI Advanced, p
 
 ![BI360 Dashboard Screenshots](Dashboard/Screenshots/)
 
-![BI360 Dashboard Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTQ3M2ZkZjQtNzg1OC00OWZiLWJlZmUtNTI0OTUxYTg2MTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 ## Technologies Used
 Power BI: Data visualization tool for creating interactive dashboards.
 DAX (Data Analysis Expressions): Used for creating calculated columns, measures, and custom visuals.
